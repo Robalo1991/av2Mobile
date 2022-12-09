@@ -1,0 +1,11 @@
+Grupo:
+João Victor Robalinho
+
+
+Cliente:
+https://snack.expo.dev/@robalo1991/av2-desenvmobile
+
+servidor:
+https://servidor-cadastro-de-filmes.glitch.me
+
+
